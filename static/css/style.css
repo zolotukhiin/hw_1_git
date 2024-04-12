@@ -1,0 +1,47 @@
+.first_row {
+  display: flex;
+  justify-content: center;
+  margin-left: 245px;
+  margin-top: 15%;
+}
+
+.second_row {
+  display: flex;
+  justify-content: center;
+}
+
+.third_row {
+  display: flex;
+  justify-content: center;
+  margin-left: 13px;
+}
+
+.last_row {
+  display: flex;
+  justify-content: center;
+  margin-left: 20px;
+}
+
+.text_under {
+  text-align: center;
+  font-size: 10px;
+  margin-bottom: 10%;
+}
+
+.under_2 {
+  text-align: center;
+  font-size: 8px;
+  line-height: 1px;
+}
+
+a:visited {
+  color: #950740;
+}
+
+a:active {
+  color: #E27D60;
+}
+
+a:hover {
+  color: #EDF5E1;
+}
